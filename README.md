@@ -31,6 +31,8 @@ Please follow installation instructions for Flutter for your operating system to
 The valus for the environment variables can be extracted from the .env.{stage}file generated during the iNi Rider service API [deployoment](https://github.com/vinoselv/ini-rider-api/blob/main/doc/GettingStarted.md#deployment).
 
 
+Also replace the Google Maps api key placeholderin the *android\app\src\main\AndroidManifest.xml*
+
 **Run**  
 The application can be run against the local serverless-offline deployment or the AWS cloud deployment depending on the *aws_base_url*.
 
@@ -53,12 +55,12 @@ The iNi Rider API is a backend service that collects and manages the data requir
 ## Screenshots
 **Registration**
 
- <img src="assets/screenshots/login-mobile.png" width="1000" height="600" />
+ <img src="assets/screenshots/login-mobile.png"  />
 
 **Car live tracking**
 
- <img src="assets/screenshots/car-tracking-mobile.png" width="1000" height="600" />
+ <img src="assets/screenshots/car-tracking-mobile.png" />
 
 **Ride live tracking**
 
- <img src="assets/screenshots/ride-tracking-mobile.png" width="1000" height="600" />
+ <img src="assets/screenshots/ride-tracking-mobile.png"  />
