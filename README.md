@@ -46,6 +46,8 @@ flutter run
 - The application is not run / tested for iOS.
 - The application test coverage is very limited due to the time limitations.
 - The code can be still optimised / improved to fix the performance and reliablity issues.
+- The leaderboard implementation in the mobile is not yet integrated to the backend and it is showing dummy values for the ride and carbon scores.
+- The push notifications to inform the approved riders from the ride owner is not implemented.
 
 **documentation**
 
