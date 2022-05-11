@@ -64,3 +64,6 @@ The iNi Rider API is a backend service that collects and manages the data requir
 **Ride live tracking**
 
  <img src="assets/screenshots/ride-tracking-mobile.png"  />
+
+ ## Attribution
+ The application uses free icons from <a href="https://www.flaticon.com/free-icons/earth" title="earth icons">Earth icons created by Freepik - Flaticon</a>
