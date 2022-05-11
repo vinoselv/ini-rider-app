@@ -54,6 +54,12 @@ flutter run
 The iNi Rider API is a backend service that collects and manages the data required for the iNi Rider application. Please check the 
 [iNi Rider API service](https://github.com/vinoselv/ini-rider-api) documentation for more details.
 
+## Features
+
+The video walk through the major features of the application.
+
+[![YouTube video](https://img.youtube.com/vi/Ki8hv6wCwXM/0.jpg)](https://www.youtube.com/watch?v=Ki8hv6wCwXM)
+
 ## Screenshots
 **Registration**
 
